@@ -60,7 +60,7 @@ const NODES = [
   leavesSide:'left', leafWidth:190, summary:'3D-моделирование и визуализация',
   desc:'Инструменты для 3D-моделирования, визуализации и рендеринга.',
   items:[
-    { title:'Rhino', level:'core', desc:'Профессиональное 3D-моделирование NURBS-поверхностей.', links:[] },
+    { title:'Rhino', level:'core', desc:'Профессиональное 3D-моделирование NURBS-поверхностей. \n\n 1. Интерфейс и среда\n2. Точное 2D-чертчение\n3. Базовые 3D-преобразования\n4. Твердотельное моделирование\n5. Генерация поверхности из кривых\n6. Редактирование и свшивание геометрии\n7. Анализ качества поверхности\n8.Организация данных в проекте', links:[{label: "Быстрый старт Rhino", url: "https://www.rhino3d.com/learn/?query=kind:%20jump_start&modal=null"} , {label: "Rhino для архитекторов", url: "https://www.rhino3d.com/learn/?query=kind:%20architecture&modal=null"}, {label: "Курс от Obrazuim" , url: "https://obrazum.com/course/rhino-3d"}] },
     { title:'3D max', level:'core', desc:'3D-моделирование, анимация и визуализация.', links:[] },
     { title:'Blender', level:'core', desc:'Открытый инструмент для 3D-графики: моделирование, анимация, рендеринг.', links:[] }
   ] },
